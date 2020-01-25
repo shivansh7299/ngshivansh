@@ -1,0 +1,23 @@
+{
+  "name": "dummy2020",
+  "version": "1.0.0",
+  "description": "dummy package or trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivansh7299/ngshivansh.git"
+  },
+  "keywords": [
+    "Starting",
+    "dummy"
+  ],
+  "author": "Shivansh Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shivansh7299/ngshivansh/issues"
+  },
+  "homepage": "https://github.com/shivansh7299/ngshivansh#readme"
+}
